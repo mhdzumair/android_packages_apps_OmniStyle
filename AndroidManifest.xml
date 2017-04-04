@@ -43,34 +43,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".BrowseWallsActivity"
-            android:label="@string/browse_walls"
-            android:theme="@android:style/Theme.Material.Settings" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity-alias
-            android:name=".WallpaperActivity"
-            android:label="@string/omni_walls"
-            android:theme="@android:style/Theme.Material.Settings"
-            android:targetActivity="org.omnirom.omnistyle.BrowseWallsActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.SET_WALLPAPER" />
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity-alias>
-        <activity
-            android:name=".weather_color"
-            android:label="LockClock (color)" >
-            <intent-filter>
-                <action android:name="org.omnirom.WeatherIconPack" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
 
         <activity
             android:name=".nature"
@@ -111,15 +83,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-
-        <activity
-            android:name=".omni_syed"
-            android:label="Syed" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
+        
     </application>
 </manifest>
