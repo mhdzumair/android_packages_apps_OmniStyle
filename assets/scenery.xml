@@ -31,4 +31,24 @@ day_header entries have a higher priority then hour entries -->
     <random_header image="scenery_header_09" />
     <random_header image="scenery_header_10" />
     <random_header image="scenery_header_11" />
+    <random_header image="scenery_header_12" />
+    <random_header image="scenery_header_13" />
+    <random_header image="scenery_header_14" />
+    <random_header image="scenery_header_15" />
+    <random_header image="scenery_header_16" />
+    <random_header image="scenery_header_17" />
+    <random_header image="scenery_header_18" />
+    <random_header image="scenery_header_19" />
+    <random_header image="scenery_header_20" />
+    <random_header image="scenery_header_21" />
+    <random_header image="scenery_header_22" />
+    <random_header image="scenery_header_23" />
+    <random_header image="scenery_header_24" />
+    <random_header image="scenery_header_25" />
+    <random_header image="scenery_header_26" />
+    <random_header image="scenery_header_27" />
+    <random_header image="scenery_header_28" />
+    <random_header image="scenery_header_29" />
+    <random_header image="scenery_header_30" />
+    <random_header image="scenery_header_31" />
 </daylight_headers>
