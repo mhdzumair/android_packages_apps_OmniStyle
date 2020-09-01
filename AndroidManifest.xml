@@ -122,33 +122,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
             </intent-filter>
         </activity>
         <activity
-            android:name=".clo_aestheticwalls_sj"
-            android:label="Memesis Aesthetic - Sacred Japan" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".alex_veneno"
-            android:label="itsaalex's Poison Headers" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".purplegorilla"
-            android:label="I don't believe we're been properly introduced" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
             android:name=".clo_niceheader"
             android:label="Community nicest header submissions" >
             <intent-filter>
@@ -169,15 +142,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
         <activity
             android:name=".clo_procons"
             android:label="pizzheaderz pro and cons" >
-            <intent-filter>
-                <action android:name="org.omnirom.DaylightHeaderPack1" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".clo_win98"
-            android:label="W98" >
             <intent-filter>
                 <action android:name="org.omnirom.DaylightHeaderPack1" />
 
